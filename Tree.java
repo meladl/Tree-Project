@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 import java.util.*;
 import java.io.*;
 
